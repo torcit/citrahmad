@@ -6,8 +6,11 @@ rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ip
 
 ### Fitur Script
 
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ 
+بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
+
+
 Thaks Allah Subhanahu Wa Ta'ala
+
 
 • SSH & OpenVPN
 
