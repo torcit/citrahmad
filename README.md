@@ -9,7 +9,7 @@ rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ip
 بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 
 
-Thaks Allah Subhanahu Wa Ta'ala
+Thanks Allah Subhanahu Wa Ta'ala
 
 
 • SSH & OpenVPN
